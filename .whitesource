@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "versioning":{"pipenv": "2026.4.0"}
+    "versioning":{"pipenv": "2025.0.4"}
   },
   "scanSettingsSAST": {
     "enableScan": true,
